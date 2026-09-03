@@ -130,7 +130,7 @@ This dashboard can support HR departments in:
 ## 📷 Dashboard Preview
 
 ![HR Analytics Dashboard](HR.jpg)
----
+
 
 ## 🚀 Project Outcome
 
