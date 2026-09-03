@@ -131,6 +131,8 @@ This dashboard can support HR departments in:
 
 ![HR Analytics Dashboard](HR .jpg)
 
+---
+
 
 ## 🚀 Project Outcome
 
